@@ -42,7 +42,7 @@ def home():
                     <strong>Application successfully deployed via GitHub Webhook!</strong>
             </div>
             
-            <p>This page is automatically updated when you push to GitHub repository. Try 1</p>
+            <p>This page is automatically updated when you push to GitHub repository. Try 2</p>
             <p>Webhook URL: http://webhook.dik.course.prafdin.ru</p>
             <p>App URL: http://app.dik.course.prafdin.ru</p>
         </div>
